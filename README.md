@@ -1,2 +1,2 @@
 # PCA
-Mach in code. Principal Component Analisys on matricies
+Math in code. Principal Component Analisys on matricies
